@@ -26,7 +26,7 @@ Durante este curso, você irá:
 - **Conteúdo**: Como seguir boas práticas de programação, incluindo a nomenclatura de variáveis, organização de código e legibilidade.
 
 ### 5. **Desafio**
-- **Conteúdo**: Aplicação dos conceitos aprendidos em um desafio prático, desenvolvendo uma solução real com base nos conceitos do curso.
+- **Conteúdo**: Aplicação dos conceitos aprendidos em um desafio prático.
 
 ## Como usar este repositório
 
